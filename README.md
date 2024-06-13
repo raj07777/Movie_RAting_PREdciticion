@@ -1,7 +1,5 @@
 # Movie_RAting_PREdciticion
 
-Here's a paraphrased version of the steps outlined in the document:
-
 ---
 
 # Predicting IMDB Movie Ratings
